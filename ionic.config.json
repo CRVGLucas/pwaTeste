@@ -1,0 +1,7 @@
+{
+  "name": "pwaTeste",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
